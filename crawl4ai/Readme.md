@@ -17,3 +17,7 @@ uv sync --all-groups
 ```bash
 uv run playwright install chromium
 ```
+
+# Ejecucion
+
+El script `main.py` ejecuta un crawl minimo sobre una web concreta
